@@ -1,7 +1,7 @@
 #print("Hello World")
 #print("Pramod Dutta")
 #print(self,*args,sep*" ",end*"/n",file*Name)
-#*args - Unlimited number ocomma seperated argumets
+#*args - Unlimited number comma seperated argumets
 
 print("Pramod",123,"Amit","John")
 print("Pramod",123,"Amit","John",sep="-",end="__")
