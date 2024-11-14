@@ -36,12 +36,3 @@ print("Mul is  : ",mul)
 print("Div is  : ",div)
 
 
-
-
-
-
-#Step 2
-
-
-
-#Step 3
