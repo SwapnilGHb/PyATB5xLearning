@@ -12,5 +12,5 @@ num2 = int(input("Enter the num2 : " ))
 quotient = int(num1//num2)
 remainder = int(num1%num2)
 
-print(quotient)
-print(remainder)
+print("The Quotient is :",quotient)
+print("The Remainder is :",remainder)
