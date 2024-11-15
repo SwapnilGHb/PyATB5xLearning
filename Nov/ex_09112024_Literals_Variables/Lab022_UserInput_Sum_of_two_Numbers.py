@@ -9,8 +9,13 @@
 #  O/P ->sum-> int,sub->int, div->float
 
 
-num1 = int(input("Enter the num1"))
-num2 = int(input("Enter the num2"))
+#num1 = int(input("Enter the num1"))
+#num2 = int(input("Enter the num2"))
+
+num1 = float(input("Enter the num1"))
+num2 = float(input("Enter the num2"))
+
+
 
 #num1= int(num1)
 #num2=int(num2)
@@ -25,9 +30,9 @@ print(type(num2))
 int()
 
 #Step3
-sum = int(num1 + num2)
-sub = int(num1 - num2)
-mul = int(num1 * num2)
+sum = float(num1 + num2)
+sub = float(num1 - num2)
+mul = float(num1 * num2)
 div = float(num1 / num2)
 
 print("Sum is  : ",sum)
